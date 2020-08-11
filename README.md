@@ -2,12 +2,12 @@
 **Hi there, I am Faten Healy, an Inside Solutions Engineer @ GitHub. Welcome to my GitHub Profile 👋**
 
 <p align="center">
-  <img src="/Faten-Octocat.png" width="200" height="200"> 
+  <img src="https://github.com/fatenhealy/fatenhealy/blob/main/Faten-Octocat.png" width="200" height="200"> 
 </p>
 If you like my octocat, you can build your own @ https://myoctocat.com.
 
 ### Upcoming Event:
- [<img src="/UpcomingWebinar.png" >](https://resources.github.com/webcasts/Appsec-pitfalls-how-to-avoid-them-aest)  
+ [<img src="https://github.com/fatenhealy/fatenhealy/blob/main/UpcomingWebinar.png" >](https://resources.github.com/webcasts/Appsec-pitfalls-how-to-avoid-them-aest)  
  
 ### Contact Details:
 
