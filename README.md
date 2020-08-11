@@ -1,6 +1,6 @@
-### Hi there 👋
-Welcome to Faten Healy GitHub Profile
+### Hi there, I am Faten Healy, Inside Solutions Engineer @ GitHub. Welcome to my GitHub Profile 👋
 
+<img src="https://github.com/fatenhealy/fatenhealy/blob/main/Faten-Octocat.png">
 <!--
 **fatenhealy/fatenhealy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
+🐦 [twitter](https://twitter.com/fatenhealy) **|** 
+👩‍🎓 [linkedin](https://www.linkedin.com/in/faten-healy-5260382b/)
+
