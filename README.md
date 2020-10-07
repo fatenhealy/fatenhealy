@@ -6,7 +6,7 @@
 </p>
 If you like my octocat, you can build your own @ https://myoctocat.com.
 
-### Upcoming Event:
+### Previous Event:
  [<img src="https://github.com/fatenhealy/fatenhealy/blob/main/UpcomingWebinar.png" >](https://resources.github.com/webcasts/Appsec-pitfalls-how-to-avoid-them-aest)  
  
 ### Contact Details:
